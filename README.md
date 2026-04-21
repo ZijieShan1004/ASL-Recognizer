@@ -12,6 +12,7 @@ This project supports two deployment modes:
 
 The system is fully local. It does not require any paid API.
 
+Please check Deploy Instructions.md for more instructions.
 ---
 
 ## Features
